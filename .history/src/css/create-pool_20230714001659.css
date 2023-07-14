@@ -1,0 +1,18 @@
+.create-body{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 30px;
+}
+.create-wallet{
+    display: flex;
+    font-size: 20px;
+}
+.create-wallet-title{
+    margin: 0 16px 0 10px;
+    
+}
+.create-wallet span{
+    color: var(--text-1-color);
+    margin-right: 16px;
+}

@@ -1,0 +1,8 @@
+.create-body{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.create-wallet{
+    display: flex;
+}
